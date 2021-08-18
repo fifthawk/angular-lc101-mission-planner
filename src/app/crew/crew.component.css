@@ -20,3 +20,8 @@ h3 {
 }
 
 /* Add a 'selected' class here to style selected astronaut names a different color. */
+
+.selected {
+    background: rgb(128, 0, 107);
+    color: rgb(17, 0, 255);
+}
